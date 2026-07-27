@@ -15,3 +15,6 @@ python scripts/monitor.py
 or
 
 python scripts/backup.py
+
+
+The legacy audit helper is no longer included.
