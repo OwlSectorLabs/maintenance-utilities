@@ -10,3 +10,7 @@ Please:
 - Follow existing code style.
 
 All submissions should be reviewed before merging.
+
+Avoid committing temporary testing files.
+
+Verify documentation before submitting pull requests.
