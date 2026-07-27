@@ -16,7 +16,13 @@ A small collection of Python utilities used to automate routine system maintenan
 
 ## Status
 
+Project originally developed for internal use.
+
+Archived after migration to a newer automation platform.
+
 This repository is archived and is no longer actively maintained.
 
 Community contributions are welcome, but responses may be delayed.
+
+
 
